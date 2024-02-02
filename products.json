@@ -10,34 +10,44 @@
         "countInStock": 10
     },
     {
-        "name":"iphone 7",
-        "description":"iphone 7 64gb space grey",
-        "price": 70000,
-        "company":"apple",
-        "varient":"pro max",
-        "SKU":"iphone7AG64",
-        "additional_cost": 19000,
-        "countInStock": 10
+        "name":"watch10",
+        "description":"waterproof health band with 10 days battery life",
+        "price": 4200,
+        "company":"samsung",
+        "varient":"s10",
+        "SKU":"watchs10DN39",
+        "additional_cost": 499,
+        "countInStock": 37
     },
     {
         "name":"iphone 8",
-        "description":"iphone 8 64gb space grey",
-        "price": 80000,
+        "description":"iphone 8 128gb gold",
+        "price": 125000,
         "company":"apple",
-        "varient":"pro max",
-        "SKU":"iphone8AG64",
-        "additional_cost": 19000,
-        "countInStock": 10
+        "varient":"pro",
+        "SKU":"iphone8AG128",
+        "additional_cost": 27500,
+        "countInStock": 13
     },
     {
         "name":"iphone 11",
-        "description":"iphone 11 64gb space grey",
-        "price": 90000,
+        "description":"iphone 11 64gb green",
+        "price": 195000,
         "company":"apple",
-        "varient":"pro max",
+        "varient":"ultra pro max",
         "SKU":"iphone11AG64",
-        "additional_cost": 19000,
-        "countInStock": 10
+        "additional_cost": 75500,
+        "countInStock": 23
+    },
+    {
+        "name":"Samsung Galaxy S20",
+        "description":"Galaxy S20 128GB Cosmic Gray",
+        "price": 104550,
+        "company":"samsung",
+        "varient":"Ultra",
+        "SKU":"S20CG128",
+        "additional_cost": 25000,
+        "countInStock": 16
     },
     {
         "name":"iphone 12",
@@ -48,5 +58,225 @@
         "SKU":"iphone12AG64",
         "additional_cost": 19000,
         "countInStock": 10
+    },
+    {
+        "name": "Samsung Galaxy Note 20",
+        "description": "Galaxy Note 20 256GB Mystic Bronze",
+        "price": 150000,
+        "company": "samsung",
+        "variant": "Ultra",
+        "SKU": "Note20MB256",
+        "additional_cost": 30000,
+        "countInStock": 20
+    },
+    {
+        "name": "Xiaomi Note 10 Pro",
+        "description": "Note 10 Pro 128GB Glacier Blue",
+        "price": 43000,
+        "company": "xiaomi",
+        "variant": "Pro",
+        "SKU": "Note10ProGB128",
+        "additional_cost": 26700,
+        "countInStock": 33
+    },
+    {
+        "name": "Oppo Reno5 Pro 5G",
+        "description": "Reno5 Pro 5G 256GB Astral Blue",
+        "price": 35999,
+        "company": "oppo",
+        "variant": "5G",
+        "SKU": "Reno5ProAB256",
+        "additional_cost": 6000,
+        "countInStock": 35
+    },
+    {
+        "name": "Xiaomi Redmi Note 10 Pro",
+        "description": "Xiaomi Redmi Note 10 Pro 128GB Glacier Blue",
+        "price": 25999,
+        "company": "xiaomi",
+        "variant": "Pro",
+        "SKU": "Note10ProGB128",
+        "additional_cost": 5000,
+        "countInStock": 50
+    },
+    {
+        "name": "OnePlus 9 Pro",
+        "description": "OnePlus 9 Pro 256GB Morning Mist",
+        "price": 64999,
+        "company": "oneplus",
+        "variant": "Pro",
+        "SKU": "OnePlus9ProMM256",
+        "additional_cost": 10000,
+        "countInStock": 25
+    },
+    {
+        "name": "Samsung Galaxy A52",
+        "description": "Samsung Galaxy A52 128GB Awesome Blue",
+        "price": 26499,
+        "company": "samsung",
+        "variant": "Awesome",
+        "SKU": "A52AB128",
+        "additional_cost": 5000,
+        "countInStock": 40
+    },
+    {
+        "name": "Samsung Galaxy M42",
+        "description": "Samsung Galaxy M42 128GB Prism Dot Black",
+        "price": 21999,
+        "company": "samsung",
+        "variant": "Prism",
+        "SKU": "M42PDB128",
+        "additional_cost": 4000,
+        "countInStock": 60
+    },
+    {
+        "name": "Nokia 8.3",
+        "description": "Nokia 8.3 5G 128GB Polar Night",
+        "price": 39999,
+        "company": "nokia",
+        "variant": "5G",
+        "SKU": "Nokia8.3128PN",
+        "additional_cost": 7000,
+        "countInStock": 30
+    },
+    {
+        "name": "Sony Xperia 5 III",
+        "description": "Sony Xperia 5 III 256GB Black",
+        "price": 79999,
+        "company": "sony",
+        "variant": "III",
+        "SKU": "Xperia5III256B",
+        "additional_cost": 8500,
+        "countInStock": 25
+    },
+    {
+        "name": "LG Velvet 2 Pro",
+        "description": "LG Velvet 2 Pro 256GB Aurora Gray",
+        "price": 59999,
+        "company": "lg",
+        "variant": "2 Pro",
+        "SKU": "Velvet2Pro256AG",
+        "additional_cost": 6000,
+        "countInStock": 20
+    },
+    {
+        "name": "HTC Desire 21 Pro 5G",
+        "description": "HTC Desire 21 Pro 5G 128GB Blue",
+        "price": 31999,
+        "company": "htc",
+        "variant": "21 Pro 5G",
+        "SKU": "Desire21Pro5G128B",
+        "additional_cost": 5000,
+        "countInStock": 15
+    },
+    {
+        "name": "Motorola Edge 20 Pro",
+        "description": "Motorola Edge 20 Pro 256GB Midnight Blue",
+        "price": 54999,
+        "company": "motorola",
+        "variant": "20 Pro",
+        "SKU": "Edge20Pro256MB",
+        "additional_cost": 5500,
+        "countInStock": 18
+    },
+    {
+        "name": "Lenovo Legion Phone Duel 2",
+        "description": "Lenovo Legion Phone Duel 2 512GB Titanium White",
+        "price": 69999,
+        "company": "lenovo",
+        "variant": "Phone Duel 2",
+        "SKU": "LegionDuel2512TW",
+        "additional_cost": 7000,
+        "countInStock": 22
+    },
+    {
+        "name": "Google Pixel 6 Pro",
+        "description": "Google Pixel 6 Pro 256GB Stormy Black",
+        "price": 89999,
+        "company": "google",
+        "variant": "6 Pro",
+        "SKU": "Pixel6Pro256SB",
+        "additional_cost": 8000,
+        "countInStock": 28
+    },
+    {
+        "name": "Huawei Mate 40 Pro",
+        "description": "Huawei Mate 40 Pro 256GB Mystic Silver",
+        "price": 79999,
+        "company": "huawei",
+        "variant": "Mate 40 Pro",
+        "SKU": "Mate40Pro256MS",
+        "additional_cost": 7000,
+        "countInStock": 24
+    },
+    {
+        "name": "Honor 50 Pro",
+        "description": "Honor 50 Pro 256GB Frost Crystal",
+        "price": 56999,
+        "company": "honor",
+        "variant": "50 Pro",
+        "SKU": "Honor50Pro256FC",
+        "additional_cost": 5500,
+        "countInStock": 21
+    },
+    {
+        "name": "Realme GT Master Edition",
+        "description": "Realme GT Master Edition 256GB Voyager Grey",
+        "price": 29999,
+        "company": "realme",
+        "variant": "Master Edition",
+        "SKU": "GTMaster256VG",
+        "additional_cost": 5000,
+        "countInStock": 20
+    },
+    {
+        "name": "Vivo X60 Pro",
+        "description": "Vivo X60 Pro 256GB Midnight Black",
+        "price": 49999,
+        "company": "vivo",
+        "variant": "X60 Pro",
+        "SKU": "X60Pro256MB",
+        "additional_cost": 6000,
+        "countInStock": 18
+    },
+    {
+        "name": "Asus Zenfone 8",
+        "description": "Asus Zenfone 8 256GB Obsidian Black",
+        "price": 39999,
+        "company": "asus",
+        "variant": "Zenfone 8",
+        "SKU": "Zenfone8256OB",
+        "additional_cost": 5000,
+        "countInStock": 15
+    },
+    {
+        "name": "samsung Key2",
+        "description": "samsung Key2 64GB Black",
+        "price": 39999,
+        "company": "samsung",
+        "variant": "Key2",
+        "SKU": "Key264B",
+        "additional_cost": 5000,
+        "countInStock": 12
+    },
+    {
+        "name": "htc In Note 1",
+        "description": "In Note 1 128GB Green",
+        "price": 12999,
+        "company": "htc",
+        "variant": "In Note 1",
+        "SKU": "InNote1128G",
+        "additional_cost": 2000,
+        "countInStock": 10
+    },
+    {
+        "name": "honor Z2",
+        "description": "honor Z2 64GB Blue",
+        "price": 6999,
+        "company": "honor",
+        "variant": "Z2",
+        "SKU": "HonrZ264B",
+        "additional_cost": 1000,
+        "countInStock": 8
     }
 ]

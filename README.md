@@ -20,9 +20,24 @@ To get all products using API
 
     localhost:5000/api/products
 
+To add dataset to database
+
+    node productDB.js
+
 To test API using Thunder Client or Postman
 (use only after starting server : npm run dev)
 
     http://localhost:5000/api/products
     http://localhost:5000/api/products/testing
 
+    >> implementing search functionality
+        http://localhost:5000/api/products?company=apple
+        http://localhost:5000/api/products?company=samsung&name=watch10
+
+    >> implementing sorting
+        http://localhost:5000/api/products?sort=price
+        http://localhost:5000/api/products?sort=price,name
+
+    >> implementing select query
+        http://localhost:5000/api/products?select=name,company
+    
