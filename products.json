@@ -1,0 +1,52 @@
+[
+    {
+        "name":"iphone 6s",
+        "description":"iphone 6s 64gb space grey",
+        "price": 60000,
+        "company":"apple",
+        "varient":"pro max",
+        "SKU":"iphone6sAG64",
+        "additional_cost": 19000,
+        "countInStock": 10
+    },
+    {
+        "name":"iphone 7",
+        "description":"iphone 7 64gb space grey",
+        "price": 70000,
+        "company":"apple",
+        "varient":"pro max",
+        "SKU":"iphone7AG64",
+        "additional_cost": 19000,
+        "countInStock": 10
+    },
+    {
+        "name":"iphone 8",
+        "description":"iphone 8 64gb space grey",
+        "price": 80000,
+        "company":"apple",
+        "varient":"pro max",
+        "SKU":"iphone8AG64",
+        "additional_cost": 19000,
+        "countInStock": 10
+    },
+    {
+        "name":"iphone 11",
+        "description":"iphone 11 64gb space grey",
+        "price": 90000,
+        "company":"apple",
+        "varient":"pro max",
+        "SKU":"iphone11AG64",
+        "additional_cost": 19000,
+        "countInStock": 10
+    },
+    {
+        "name":"iphone 12",
+        "description":"iphone 12 64gb space grey",
+        "price": 100000,
+        "company":"apple",
+        "varient":"pro max",
+        "SKU":"iphone12AG64",
+        "additional_cost": 19000,
+        "countInStock": 10
+    }
+]
