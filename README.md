@@ -16,3 +16,11 @@ To run this project on browser
     npm run dev
     localhost:5000
 
+To get all products using API
+
+    localhost:5000/api/products
+
+To test API
+
+    localhost:5000/api/products/testing
+    
