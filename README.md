@@ -41,3 +41,8 @@ To test API using Thunder Client or Postman
     >> implementing select query
         http://localhost:5000/api/products?select=name,company
     
+
+Visit My other project (which is also using API):
+        https://github.com/SauravKumar1822/MERN_Stack_Project
+    hosted link
+        https://recipeapp-51op.onrender.com/
