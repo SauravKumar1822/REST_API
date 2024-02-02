@@ -8,19 +8,21 @@ To start this project on your Desktop :
 
     3. Install the required packages from package.json file
         npm i
-        npm i express
-        npm i nodemon
+        npm i express nodemon
+        npm i mongoose dotenv
     
 To run this project on browser
     
     npm run dev
     localhost:5000
 
-To get all products using API
+To get all products using API 
 
     localhost:5000/api/products
 
-To test API
+To test API using Thunder Client or Postman
+(use only after starting server : npm run dev)
 
-    localhost:5000/api/products/testing
-    
+    http://localhost:5000/api/products
+    http://localhost:5000/api/products/testing
+
