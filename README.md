@@ -4,16 +4,16 @@ Hi This is Saurav!
 
     https://restapi-j71v.onrender.com/api/products/testing
 
->> implementing search functionality
-    https://restapi-j71v.onrender.com/api/products?company=apple
-    https://restapi-j71v.onrender.com/api/products?company=samsung&name=watch10
+    1. implementing search functionality
+        https://restapi-j71v.onrender.com/api/products?company=apple
+        https://restapi-j71v.onrender.com/api/products?company=samsung&name=watch10
 
->> implementing sorting
-    https://restapi-j71v.onrender.com/api/products?sort=price
-    https://restapi-j71v.onrender.com/api/products?sort=price,name
+    2.implementing sorting
+        https://restapi-j71v.onrender.com/api/products?sort=price
+        https://restapi-j71v.onrender.com/api/products?sort=price,name
 
->> implementing select query
-    https://restapi-j71v.onrender.com/api/products?select=name,company
+    3.implementing select query
+        https://restapi-j71v.onrender.com/api/products?select=name,company
 
 **To start this project on your Desktop :
     
