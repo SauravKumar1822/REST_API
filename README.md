@@ -1,6 +1,21 @@
 Hi This is Saurav!
 
-To start this project on your Desktop :
+**This project is deployed on Render:
+
+    https://restapi-j71v.onrender.com/api/products/testing
+
+>> implementing search functionality
+    https://restapi-j71v.onrender.com/api/products?company=apple
+    https://restapi-j71v.onrender.com/api/products?company=samsung&name=watch10
+
+>> implementing sorting
+    https://restapi-j71v.onrender.com/api/products?sort=price
+    https://restapi-j71v.onrender.com/api/products?sort=price,name
+
+>> implementing select query
+    https://restapi-j71v.onrender.com/api/products?select=name,company
+
+**To start this project on your Desktop :
     
     1. download zip or folder from my Github repository name: REST_API (https://github.com/SauravKumar1822/REST_API)
 
@@ -40,9 +55,10 @@ To test API using Thunder Client or Postman
 
     >> implementing select query
         http://localhost:5000/api/products?select=name,company
-    
 
-Visit My other project (which is also using API):
-        https://github.com/SauravKumar1822/MERN_Stack_Project
-    hosted link
-        https://recipeapp-51op.onrender.com/
+Visit My other project (MERN Stack using API):
+
+    https://github.com/SauravKumar1822/MERN_Stack_Project
+    
+    >> hosted link
+       https://recipeapp-51op.onrender.com/
